@@ -1,3 +1,4 @@
+<!-- Mouad Garroud --!>
 <?php
 // Database connection settings
 $localhost = 'localhost'; 
