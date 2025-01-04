@@ -1,3 +1,4 @@
+// Mouad Garroud 
 // to toggle between login and signup form
 document.getElementById('loginBtn').addEventListener('click', function () {
     document.getElementById('login').style.display = 'block';
