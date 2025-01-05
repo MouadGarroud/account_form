@@ -41,8 +41,4 @@ To run the project locally, follow these steps:
 
 - **Login:** Users can log in by entering their username or email and password.
 - **Sign Up:** New users can sign up by providing a username, surname, email, and password.
-- Passwords are hashed during the signup process, ensuring secure storage.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+- Passwords are hashed during the signup process, ensuring secure storage
