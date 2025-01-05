@@ -1,7 +1,6 @@
 # account_form
 
-account_form is a secure authentication system that allows users to log in or sign up using their username, email, and password. The application verifies user credentials using a MySQL database and hashes passwords for enhanced security. This project also features a simple front-end interface for user interaction.
-
+account_form is a secure authentication system that allows users to log in or sign up using their username, email, and password. The application verifies user credentials using a MySQL database and hashes passwords for enhanced security. 
 ## Features
 
 - **Login System:** Users can log in using their username or email and password.
